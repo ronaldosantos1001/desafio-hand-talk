@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192005873337",
+    "project_id": "desafio-hand-talk-6a2c1",
+    "storage_bucket": "desafio-hand-talk-6a2c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192005873337:android:938479fec7f8eefe184568",
+        "android_client_info": {
+          "package_name": "com.galaxies.handtalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7VSnBIkVQA3AAckqR0Qjol5MlvSggeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
